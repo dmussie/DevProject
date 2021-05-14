@@ -1,0 +1,30 @@
+.banner{
+    background-color: orangered;
+    margin-top: 75px;
+    text-align: center;
+    padding: 100px 0;
+    color: purple;
+}
+
+#small-cole{
+    height: 500px;
+    width: 600px;
+    color: purple;
+}
+
+#cole{
+    color: purple;
+    font-size: 50px;
+}
+
+.bold{
+    font-weight: 900;
+}
+
+#big-cole{
+    font-size: 80px;
+}
+
+#summer{
+    font-size: 30px;
+}
